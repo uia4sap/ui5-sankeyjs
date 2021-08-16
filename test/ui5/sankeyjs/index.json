@@ -1,0 +1,27 @@
+{
+	"ui5.sankeyjs": {
+		"icon": "sap-icon://chart",
+		"name": "Sankey Diagram for UI5",
+		"description": "Chart.js for UI5",
+		"source" : "https://github.com/uia4sap/ui5-sankeyjs",
+		"documentation": "https://github.com/uia4sap/ui5-sankeyjs/blob/master/README.md",
+		"demo" : "https://github.com/uia4sap/ui5-sankeyjs/index.html",
+		"license": "Apache 2.0",
+		"version": "1.0.0",
+		"content": {
+			"Simple": {
+				"id": "SimpleDiagram",
+				"name": "SimpleDiagram",
+				"type": "control",
+				"description": "Simple",
+				"samples": [
+					{
+						"id": "SimpleDiagram",
+						"name": "The simple diagram",
+						"description": "the simplest diagram"
+					}
+				]
+			}
+		}
+	}
+}
